@@ -11,8 +11,8 @@ at 💄Golden Rose BD, where I have been for 2.5 years. In addition to my web de
 - HTML, CSS, Bootstrap, Figma
 - JavaScript, React JS, Next JS
 - MySQL, and Express JS
-- 
-- 🔭 I’m currently working on Selim Azam International Ltd (anayase.com)
+  
+# 🔭 I’m currently working on Selim Azam International Ltd (anayase.com)
 - 🌱 I’m currently learning Express Js 
 - 💬 Ask me about Web Front End Development 
 
