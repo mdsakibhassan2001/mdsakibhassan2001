@@ -1,25 +1,36 @@
 ![Web Front End Developer](https://media.licdn.com/dms/image/v2/D4D16AQEkKZenCUUOZA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698903660190?e=1734566400&v=beta&t=Fjsxv4_KdEk5QrVMR4ejbndYs5jI-H3RdAGzrprCadM)
-### Hi there 👋, I am Md Sakib Hassan
-#### Web Front End Developer
+## 🧑‍💻ABOUT ME
+### 🖥 Web Front-End Developer & Web Designer with 4+ Years of Experience
 
-🖥 Web Designer with 4+ Years of Experience
+👨‍💻 I have 3 years of experience as a web designer, specializing in front-end development using:
 
-👨‍💻 I have 3 years of experience as a web designer, specializing in front-end development using HTML, CSS, Bootstrap, Figma, JavaScript, React JS, and Next JS, Mysql,Express Js. I am currently employed as a web designer 
-at 💄Golden Rose BD, where I have been for 2.5 years. In addition to my web design work, I am pursuing a Bachelor of Science in Computer Science at the Canadian University of Bangladesh.
+- HTML, CSS, Bootstrap, Figma
+- JavaScript, React JS, Next JS
+- MySQL, and Express JS
 
-### - Skills & Experiance:
- - HTML, CSS, Bootstrap, Figma
- - JavaScript, React JS, Next JS
- - MySQL, and Express JS
-  
- - 🔭 I’m currently working on Selim Azam International Ltd (anayase.com)
- - 🌱 I’m currently learning Express Js 
- - 💬 Ask me about Web Front End Development 
+I am currently employed as a web designer at **Selim Azam International Ltd** (anayase.com) , where I have been for 2.5 years. In addition to my web design work, I am pursuing a **Bachelor of Science in Computer Science** at the **Canadian University of Bangladesh**.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='[github](https://github.com/mdsakibhassan2001)' height='30'>](https://github.com/mdsakibhassan2001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='[linkedin](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)' height='30'>](https://www.linkedin.com/in/md-sakib-hassan-919a00201/?trk=opento_sprofile_details/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/profile.php?id=61550243630822&rdid=1jDgNUkedBy5GohW&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F14dG8yGF4w%2F)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='30'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC4PArsNP5n73lKCQrW2brlQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://mdsakibhassan2001.github.io/Portfolio/)  
+🌱 I’m currently learning **Express JS**  
+💬 Ask me about **Web Front-End Development**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsakibhassan2001)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsakibhassan2001&show_icons=true&count_private=true)  
+### Connect with me:
+
+[![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/mdsakibhassan2001)
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/md-sakib-hassan-919a00201/)
+[![Facebook](https://img.icons8.com/fluent/48/000000/facebook-new.png)](https://www.facebook.com/profile.php?id=61550243630822)
+[![YouTube](https://img.icons8.com/fluent/48/000000/youtube-play.png)](https://www.youtube.com/channel/UC4PArsNP5n73lKCQrW2brlQ)
+[![Website](https://img.icons8.com/fluent/48/000000/domain.png)](https://mdsakibhassan2001.github.io/Portfolio/)
+
+---
+
+### GitHub Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsakibhassan2001&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsakibhassan2001&show_icons=true)
+
 
