@@ -7,12 +7,11 @@
 👨‍💻 I have 3 years of experience as a web designer, specializing in front-end development using HTML, CSS, Bootstrap, Figma, JavaScript, React JS, and Next JS, Mysql,Express Js. I am currently employed as a web designer 
 at 💄Golden Rose BD, where I have been for 2.5 years. In addition to my web design work, I am pursuing a Bachelor of Science in Computer Science at the Canadian University of Bangladesh.
 
-##### - Skills & Experiance:
+### - Skills & Experiance:
 - HTML, CSS, Bootstrap, Figma
 - JavaScript, React JS, Next JS
 - MySQL, and Express JS
-
-
+- 
 - 🔭 I’m currently working on Selim Azam International Ltd (anayase.com)
 - 🌱 I’m currently learning Express Js 
 - 💬 Ask me about Web Front End Development 
