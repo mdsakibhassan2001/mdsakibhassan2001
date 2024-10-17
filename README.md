@@ -32,5 +32,5 @@ I am currently employed as a web designer at **Selim Azam International Ltd** (a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsakibhassan2001&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsakibhassan2001&show_icons=true)
-
+![mdsakibhassan2001's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdsakibhassan2001&theme=default&hide_border=false)
 
