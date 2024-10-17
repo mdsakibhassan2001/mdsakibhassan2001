@@ -8,13 +8,13 @@
 at 💄Golden Rose BD, where I have been for 2.5 years. In addition to my web design work, I am pursuing a Bachelor of Science in Computer Science at the Canadian University of Bangladesh.
 
 ### - Skills & Experiance:
- -HTML, CSS, Bootstrap, Figma
- -JavaScript, React JS, Next JS
- -MySQL, and Express JS
+ - HTML, CSS, Bootstrap, Figma
+ - JavaScript, React JS, Next JS
+ - MySQL, and Express JS
   
- -🔭 I’m currently working on Selim Azam International Ltd (anayase.com)
- -🌱 I’m currently learning Express Js 
- -💬 Ask me about Web Front End Development 
+ - 🔭 I’m currently working on Selim Azam International Ltd (anayase.com)
+ - 🌱 I’m currently learning Express Js 
+ - 💬 Ask me about Web Front End Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdsakibhassan2001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-sakib-hassan-919a00201/?trk=opento_sprofile_details/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=61550243630822&rdid=1jDgNUkedBy5GohW&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F14dG8yGF4w%2F)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC4PArsNP5n73lKCQrW2brlQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mdsakibhassan2001.github.io/Portfolio/)  
